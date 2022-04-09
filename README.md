@@ -9,10 +9,10 @@
 ---
 ## Technologies :
 - React - Front-End JavaScript library
-- Typescript(https://www.typescriptlang.org/) - JavaScript with syntax for types.
--[Windi CSS(https://windicss.org/) - Next generation utility-first CSS framework
-- Feather Icons(https://feathericons.com/) - Simply beautiful open source icons
-- Vite(https://vitejs.dev/) - Frontend Tooling
+- Typescript - JavaScript with syntax for types.
+- Windi CSS - Next generation utility-first CSS framework
+- Feather Icons - Simply beautiful open source icons
+- Vite - Frontend Tooling
 
 ---
 ## Build yourself
